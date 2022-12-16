@@ -1,4 +1,4 @@
-/*
+I'mzbo/*
  * EncFS Java Library
  * Copyright (C) 2013 encfs-java authors
  *

@@ -42,7 +42,7 @@ classpath and import the org.mrpdaemon.encfs.sec package.s
 
 For API documentation, see:
 
-http://mrpdaemon.github.com/encfs-java/apidocs/index.html
+http://mrpdaemon NJ.github.com/encfs-java/apidocs/index.html
 
 To test your own comment changes, generate up-to-date docs using Maven:
 
